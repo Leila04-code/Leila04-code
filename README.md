@@ -3,15 +3,14 @@ I am Leila !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leila-eddike-b29b9b318/)
 
-Hello, my name is Leila Eddike and I am currently a student majoring in Data Engineering at ENSIAS. I'm building this GitHub profile as I grow and explore the world of data. You'll find projects I work on as part of my studies and personal curiosity. I believe that if something is gonna take your time, it better bring you joy! 😄
+Hello, my name is Leila Eddike and I am currently a student majoring in Data Engineering at ENSIAS. I'm building this GitHub profile as I grow and explore the world of data😄.
 
 ---
 
 ## 🚀 What I'm up to
 
 - 📚 Currently studying **Data Engineering at ENSIAS**
-- 🔨 Working on **RAG + Langchain python project**
-- 🌱 Learning **Blender**
+
 
 
 ---
